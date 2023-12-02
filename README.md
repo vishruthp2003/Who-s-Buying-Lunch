@@ -14,7 +14,6 @@ Example Output
 Michael is going to buy lunch today!
 <br><br>
 Hint
-<br>
-1. You might need to think about Array.length.
+<br>1. You might need to think about Array.length.
 <br>
 2. Remember that Arrays start at position 0!
